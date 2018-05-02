@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="base-spring-ssh:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="basicspring.war">
+      <element id="artifact" artifact-name="base-spring-ssh:war exploded" />
+    </root>
+  </artifact>
+</component>
